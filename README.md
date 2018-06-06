@@ -6,7 +6,7 @@ My Github user page is at:
 https://github.com/divya-ms/
 
 My Github Pages repo can be found at:  
-https://github.com/divya-ms/photography
+https://github.com/divya-ms/divya-ms.github.io
 
 My customized homepage can be found at:
 https://divya-ms.github.io/
