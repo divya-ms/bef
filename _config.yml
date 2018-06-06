@@ -3,7 +3,7 @@ title: Divya Shan Photography
 description: > 
   An experiment with both photography and code. 
 permalink: ':title/'
-baseurl: "/photography" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://divya-ms.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
