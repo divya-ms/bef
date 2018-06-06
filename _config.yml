@@ -9,7 +9,7 @@ url: "http://divya-ms.github.io" # the base hostname & protocol for your site, e
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title: Divya Shan Photography # add banner title
-banner-desc: # add banner description
+banner-desc: hello # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
