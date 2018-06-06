@@ -17,7 +17,10 @@ layout: default
 
     <div class="entry_content">
       {{page.content | markdownify}}
-      <h1> hello </h1>
+      <h3> Gallery </h3>
+      <body>
+      <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.gallery1}} alt="{{page.title}}">
+      </body>
     </div>
     
     <div class="post_wrapper">
