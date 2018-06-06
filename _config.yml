@@ -23,7 +23,7 @@ instagram_url: https://www.instagram.com/divyashan_/
 facebook_url: https://www.facebook.com/profile.php?id=100006395430393
 
 # Paginate
-paginate: 12
+paginate: 6
 paginate_path: /page:num/
 
 # Build settings
