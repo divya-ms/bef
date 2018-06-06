@@ -4,7 +4,7 @@ description: >
   An experiment with both photography and code. 
 permalink: ':title/'
 baseurl: "/photography" # the subpath of your site, e.g. /blog
-url: "http://divya-ms.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://divya-ms.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
