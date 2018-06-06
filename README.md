@@ -9,7 +9,7 @@ My Github Pages repo can be found at:
 https://github.com/divya-ms/photography
 
 My customized homepage can be found at:
-https://divya-ms.github.io/photography/
+https://divya-ms.github.io/
 
 ## Jekyll theme
 
