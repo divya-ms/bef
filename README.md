@@ -1,7 +1,3 @@
-
-https://divya-ms.github.io/photography/
-====================
-
 # Divya Shan's Photography Page!
 
 This is my first try at using github!
@@ -13,9 +9,7 @@ My Github Pages repo can be found at:
 https://github.com/divya-ms/photography
 
 My customized homepage can be found at:
-
 https://divya-ms.github.io/photography/
-
 
 ## Jekyll theme
 
