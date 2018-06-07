@@ -21,7 +21,7 @@ layout: default
       <body>
         
        {% if page.gallery1 %}
-      <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.gallery1}} width="25%" alt="{{page.title}}">
+      <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.gallery1}} alt="{{page.title}}">
       {% endif %}
         
       {% if page.gallery2 %}
